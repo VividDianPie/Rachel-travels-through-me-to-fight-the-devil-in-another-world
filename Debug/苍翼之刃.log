@@ -1,0 +1,579 @@
+﻿  Action.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+  ActionInput.cpp
+  ActionManager.cpp
+  Animation.cpp
+  AnimationManager.cpp
+  attack.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(91,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(91,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(98,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(98,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(103,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(103,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(163,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(163,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(165,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(165,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(175,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\attack.cpp(175,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  AudioManager.cpp
+  A_main.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+  BoosSence.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BoosSence.cpp(75,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BoosSence.cpp(75,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BoosSence.cpp(76,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BoosSence.cpp(77,80): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BoosSence.cpp(77,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  BOSS.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(96,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(96,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(97,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(97,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(104,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(104,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(106,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(106,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(113,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(113,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(115,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(115,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSS.cpp(153,25): warning C4018: “>=”: 有符号/无符号不匹配
+  BossBigSkill.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkill.cpp(73,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkill.cpp(73,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkill.cpp(78,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkill.cpp(78,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  BossBigSkillEnd.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillEnd.cpp(73,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillEnd.cpp(73,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillEnd.cpp(78,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillEnd.cpp(78,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  BossBigSkillTwo.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(90,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(90,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(95,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(95,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(147,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(147,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(149,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(149,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(160,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossBigSkillTwo.cpp(160,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  BossDie.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossDie.cpp(58,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossDie.cpp(58,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossDie.cpp(63,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossDie.cpp(63,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  BOSSIdle.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSIdle.cpp(81,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSIdle.cpp(81,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSIdle.cpp(86,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSIdle.cpp(86,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  BOSSRun.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(74,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(74,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(79,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(79,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(151,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(151,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(161,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BOSSRun.cpp(161,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  BossSpit.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(123,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(123,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(124,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(124,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(129,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(129,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(130,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(130,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(187,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(187,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(189,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(189,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(199,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossSpit.cpp(199,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  BossWalk.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossWalk.cpp(98,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossWalk.cpp(98,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossWalk.cpp(103,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\BossWalk.cpp(103,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Bullet.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Bullet.cpp(25,34): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Bullet.cpp(26,34): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  BulletManager.cpp
+  正在生成代码...
+  正在编译...
+  CBossEat.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(77,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(77,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(82,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(82,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(126,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(126,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(128,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(128,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(138,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\CBossEat.cpp(138,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Character.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+  EndTX.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(32,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(33,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(41,21): warning C4305: “参数”: 从“double”到“float”截断
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(42,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(42,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(45,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\EndTX.cpp(45,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  enemy.cpp
+  GameInput.cpp
+  GameOutput.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(209,23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(209,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(321,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(321,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(335,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(335,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(349,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(349,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(363,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(363,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(377,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(377,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(405,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(405,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(419,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(419,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(433,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(433,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(447,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(447,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(516,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.cpp(516,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Hakumen.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(72,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(72,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(73,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(73,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(80,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(80,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(82,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(82,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(89,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(89,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(91,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(91,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumen.cpp(129,25): warning C4018: “>=”: 有符号/无符号不匹配
+  HakumenAtk.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(106,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(106,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(111,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(111,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(157,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(157,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(159,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(159,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(169,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenAtk.cpp(169,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  HakumenBig.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(152,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(152,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(157,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(157,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(163,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(163,43): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(174,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(174,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(175,22): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(175,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(183,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(184,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(193,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(194,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(248,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(248,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(250,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(250,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(260,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenBig.cpp(260,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  HakumenDie.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenDie.cpp(70,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenDie.cpp(70,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenDie.cpp(75,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenDie.cpp(75,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Hakumenshou.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumenshou.cpp(51,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumenshou.cpp(51,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumenshou.cpp(56,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hakumenshou.cpp(56,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  HakumenWalk.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenWalk.cpp(74,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenWalk.cpp(74,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenWalk.cpp(79,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HakumenWalk.cpp(79,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Hero.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(134,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(134,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(135,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(135,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(142,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(142,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(144,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(144,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(151,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(151,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(153,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(153,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(160,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(160,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(162,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(162,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Hero.cpp(201,17): warning C4018: “>=”: 有符号/无符号不匹配
+  HpWisp.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HpWisp.cpp(61,15): warning C4244: “参数”: 从“long double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HpWisp.cpp(81,13): warning C4244: “参数”: 从“long double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HpWisp.cpp(93,14): warning C4244: “参数”: 从“long double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\HpWisp.cpp(101,15): warning C4244: “参数”: 从“long double”转换到“float”，可能丢失数据
+  Idle.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Idle.cpp(70,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Idle.cpp(70,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Idle.cpp(75,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Idle.cpp(75,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Idle.cpp(117,30): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Idle.cpp(133,30): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  jump.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\jump.cpp(67,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\jump.cpp(67,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\jump.cpp(72,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\jump.cpp(72,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  KJ.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\GameOutput.h(18,1): warning C4005: “_UI”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\tchar.h(1483): message : 参见“_UI”的前一个定义
+  matrix3.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\matrix3.cpp(25,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\matrix3.cpp(26,12): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\matrix3.cpp(26,31): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\matrix3.cpp(33,12): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\matrix3.cpp(33,27): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+  MyRect.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\MyRect.cpp(68,20): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\MyRect.cpp(70,19): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\MyRect.cpp(84,21): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\MyRect.cpp(86,20): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  Object.cpp
+  正在生成代码...
+  正在编译...
+  OBJManager.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\OBJManager.cpp(47,25): warning C4018: “>=”: 有符号/无符号不匹配
+  Obstacle.cpp
+  OneScene.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\OneScene.cpp(60,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\OneScene.cpp(60,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\OneScene.cpp(61,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\OneScene.cpp(62,80): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\OneScene.cpp(62,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Platinum.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(35,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(35,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(36,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(36,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(43,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(43,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(45,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(45,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(52,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(52,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(54,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(54,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(61,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(61,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Platinum.cpp(101,17): warning C4018: “>=”: 有符号/无符号不匹配
+  PlatinumIdle.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\PlatinumIdle.cpp(74,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\PlatinumIdle.cpp(74,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  PlatinumShou.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\PlatinumShou.cpp(63,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\PlatinumShou.cpp(63,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RachelShou.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelShou.cpp(23,41): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelShou.cpp(23,41): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelShou.cpp(67,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelShou.cpp(67,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelShou.cpp(72,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelShou.cpp(72,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RachelSleep.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleep.cpp(75,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleep.cpp(75,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleep.cpp(80,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleep.cpp(80,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RachelSleepAtk.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(27,41): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(27,41): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(62,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(62,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(67,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(67,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(122,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(122,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(124,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(124,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(170,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(170,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(172,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(172,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(182,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RachelSleepAtk.cpp(182,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  RcAtk2.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk2.cpp(82,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk2.cpp(82,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk2.cpp(87,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk2.cpp(87,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RcAtk3.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(99,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(99,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(104,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(104,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(150,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(150,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(152,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(152,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(162,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcAtk3.cpp(162,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  RcCircleCircle.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(99,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(99,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(104,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(104,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(171,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(171,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(173,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(173,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(183,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCircleCircle.cpp(183,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  RcCowA.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(100,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(100,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(101,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(101,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(106,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(106,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(107,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(107,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcCowA.cpp(122,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RcDie.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcDie.cpp(44,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcDie.cpp(44,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcDie.cpp(49,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcDie.cpp(49,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RcElectric.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(104,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(104,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(109,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(109,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(126,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(136,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcElectric.cpp(153,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Rcflower.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(114,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(114,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(119,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(119,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(130,15): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(135,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(140,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(145,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(197,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(197,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(199,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(199,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(209,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Rcflower.cpp(209,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  RcHa.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcHa.cpp(79,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcHa.cpp(79,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcHa.cpp(84,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcHa.cpp(84,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcHa.cpp(128,30): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcHa.cpp(144,30): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  RcPos.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(89,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(89,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(90,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(90,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(91,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(91,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(92,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(92,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(93,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(93,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(94,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(94,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(95,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(95,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(134,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(135,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(141,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(142,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(152,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(153,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(163,23): warning C4305: “参数”: 从“double”到“float”截断
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(164,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(164,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(165,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(165,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(170,22): warning C4305: “参数”: 从“double”到“float”截断
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(171,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(171,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(172,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(172,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(189,17): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(190,17): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(196,22): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\RcPos.cpp(197,22): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+  Run.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Run.cpp(73,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Run.cpp(73,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Run.cpp(78,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Run.cpp(78,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  SceneSide.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(15,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(15,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(16,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(16,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(31,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(36,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(42,105): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(48,102): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(58,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(63,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SceneSide.cpp(75,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  SenceManager.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SenceManager.cpp(28,19): warning C4150: 删除指向不完整“CScene”类型的指针；没有调用析构函数
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SenceManager.h(5): message : 参见“CScene”的声明
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SenceManager.cpp(64,20): warning C4150: 删除指向不完整“CScene”类型的指针；没有调用析构函数
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\SenceManager.h(5): message : 参见“CScene”的声明
+  Shou.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Shou.cpp(58,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Shou.cpp(58,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Shou.cpp(63,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Shou.cpp(63,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Test.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(473,41): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(473,41): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(1901,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(1901,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(1913,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(1913,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(1914,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Test.cpp(1914,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  TwoSence.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\TwoSence.cpp(78,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\TwoSence.cpp(78,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\TwoSence.cpp(79,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\TwoSence.cpp(80,74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\TwoSence.cpp(80,49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  TX.cpp
+  TXManager.cpp
+  UI.cpp
+  UiManager.cpp
+  vector.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\vector.cpp(10,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\vector.cpp(15,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  walk.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(14,1): warning C4005: “蕾琪儿受”: 宏重定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Character.h(9): message : 参见“蕾琪儿受”的前一个定义
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\walk.cpp(77,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\walk.cpp(77,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\walk.cpp(82,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\walk.cpp(82,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  ZeroScene.cpp
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\ZeroScene.cpp(46,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\ZeroScene.cpp(48,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\ZeroScene.cpp(56,16): warning C4244: “参数”: 从“long double”转换到“float”，可能丢失数据
+  正在生成代码...
+  苍翼之刃.vcxproj -> F:\项目\KK项目\62-谢宇K2《苍翼之刃》\游戏源码\Debug\苍翼之刃.exe
